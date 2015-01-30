@@ -1,2 +1,0 @@
-DIVERSIFY-project.github.io
-===========================

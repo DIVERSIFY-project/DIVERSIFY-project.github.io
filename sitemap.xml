@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../../sitemap.xsl" type="text/xsl" media="all"?>
+<site>
+<page file="index.html" text="Mon site - DiverSE" title="Mon site - DiverSE">
+<page file="diversification-toolbox.html" text="Diversification Toolbox" title="Mon site - DiverSE"/>
+<page file="contributors_001.html" text="Contributors" title="Mon site - DiverSE"/>
+</page>
+</site>
